@@ -4,12 +4,12 @@ Ferramenta criada com fins educacionais, visa criptografar um arquivo de formato
 
 ```python encypt.py```
 
-Logo após isto o console mostrara uma imagen de sucesso.Agora você ja tem o arquivo criptografado
+Logo após isto, o console mostrara uma mensagem de sucesso. Agora você já tem o arquivo criptografado.
 
 ## Mas, e para descriptografar? 
 Muito simples basta você executar o script:
 
 ```python decypt.py```
 
-Pronto depois dito você terá o seu arquivo descriptografado com sucesso.
+Pronto, depois disto, você terá o seu arquivo descriptografado com sucesso.
 #### Creditos: https://web.dio.me/track/santander-bootcamp-ciberseguranca
